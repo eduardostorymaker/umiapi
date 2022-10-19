@@ -1,0 +1,17 @@
+{
+  "name": "apiumi",
+  "version": "1.0.0",
+  "description": "API catalogo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "storymaker",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "16.0.3",
+    "express": "4.18.2",
+    "pg": "8.8.0",
+    "cors": "2.8.5"
+  }
+}
